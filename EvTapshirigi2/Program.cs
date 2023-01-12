@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            var numbertasks = new NumberTasks();
-
-            numbertasks.Print();
+             var arraytasks = new ArrayTasks();
+            
+             arraytasks.Print(arraytasks.SquareRootElements(arraytasks.EnterArray()));
         }
     }
 }
