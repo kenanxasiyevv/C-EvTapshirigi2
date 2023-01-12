@@ -6,8 +6,6 @@
         {
             var numbertasks = new NumberTasks();
 
-            var reversenumber = numbertasks.ReverseNumber();
-
             numbertasks.Print();
         }
     }
